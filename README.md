@@ -46,13 +46,13 @@ npm start
 
 Esses são os passos básicos para configurar o ambiente de desenvolvimento Node.js e React. 
 
-![Captura de Tela 1](./public/imagem2.png)
+![Captura de Tela 1](/public/image2.png)
 
 ## Exemplo de CEP
 
 - CEP válido: 82840-060 (Bairro Alto - PR)
 
-![Captura de Tela 2](./public/image1.png)
+![Captura de Tela 2](/public/imagem1.png)
 
 
 
