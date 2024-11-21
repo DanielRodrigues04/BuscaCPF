@@ -1,0 +1,9 @@
+# Forçar JavaScript como a linguagem principal
+*.js linguist-detectable=true
+
+# Opcional: Ignorar outras linguagens
+*.css linguist-detectable=false
+
+# Ignorar dependências e arquivos gerados automaticamente
+node_modules/* linguist-vendored
+dist/* linguist-generated
